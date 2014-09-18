@@ -1,6 +1,7 @@
 Valor
 =====
 [![Build Status](https://travis-ci.org/ashishdatta/Valor.svg?branch=master)](https://travis-ci.org/ashishdatta/Valor)
+
 [![NPM Download](https://nodei.co/npm/valor.png?downloads=true)](https://www.npmjs.org/package/valor)
 
 League of Legends API Wrapper for Node.js
