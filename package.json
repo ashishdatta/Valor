@@ -1,0 +1,15 @@
+{
+	"author": "Ashish Datta",
+	"name": "Valor",
+	"description": "LoL API Wrapper for Node.js",
+	"repository": {
+		"url": "https://github.com/ashishdatta/Valor"
+	},
+	"dependencies": {
+		"colors": "*",
+		"request": "*"
+	},
+	"engines":{
+		"node": "0.10"
+	}
+}
