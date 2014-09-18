@@ -1,6 +1,8 @@
 Valor
 =====
 
+[![NPM Download](https://nodei.co/npm/valor.png?downloads=true)](https://www.npmjs.org/package/valor)
+
 League of Legends API Wrapper for Node.js
 
 Grab an API key from http://developer.riotgames.com
