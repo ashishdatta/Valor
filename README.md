@@ -36,4 +36,11 @@ valortest.getSummonerRunes('19453268', function(err,res){
 - Valor.getSummonerById(id, callback);
 - Valor.getSummonerMasteries(id, callback);
 - Valor.getSummonerRunes(id, callback);
+- Valor.getRankedStats(id, callback);
+- Valor.getSummonerSummary(id, callback);
+- Valor.getRecentGame(id, callback);
+- Valor.getSummonerLeague(id, callback);
+- Valor.getSummonerLeagueEntry(id, callback);
+- Valor.challengerRankings(callback);
+- Valor.championData(callback);
 
