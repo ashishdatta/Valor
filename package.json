@@ -1,16 +1,19 @@
 {
-	"author": "Ashish Datta",
-	"name": "valor",
-	"version": "0.0.1",
-	"description": "LoL API Wrapper for Node.js",
-	"repository": {
-		"url": "https://github.com/ashishdatta/Valor"
-	},
-	"dependencies": {
-		"colors": "*",
-		"request": "*"
-	},
-	"engines":{
-		"node": "0.10"
-	}
+  "author": "Ashish Datta",
+  "name": "valor",
+  "version": "0.0.1",
+  "description": "LoL API Wrapper for Node.js",
+  "repository": {
+    "url": "https://github.com/ashishdatta/Valor"
+  },
+  "dependencies": {
+    "colors": "*",
+    "request": "2.44.0"
+  },
+  "engines": {
+    "node": "0.10"
+  },
+  "devDependencies": {
+    "gulp": "~3.8.8"
+  }
 }
