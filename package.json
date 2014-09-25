@@ -1,7 +1,7 @@
 {
   "author": "Ashish Datta",
   "name": "valor",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "LoL API Wrapper for Node.js",
   "repository": {
     "url": "https://github.com/ashishdatta/Valor"
@@ -14,6 +14,11 @@
     "node": "0.10"
   },
   "devDependencies": {
-    "gulp": "~3.8.8"
+    "gulp"      : "~3.8.8",
+    "nodemon"   : "^1.2.1",
+    "should"    : "latest",
+    "mocha"     : "latest",
+    "gulp-mocha": "latest",
+    "gulp-jshint": "latest"
   }
 }
