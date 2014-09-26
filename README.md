@@ -44,3 +44,6 @@ valortest.getSummonerRunes('19453268', function(err,res){
 - Valor.challengerRankings(callback);
 - Valor.championData(callback);
 
+### TODO
+- Finish implementing all of the API calls
+- Document all methods throughly
