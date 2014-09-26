@@ -4,4 +4,3 @@ node_modules
 
 # ignore tests
 test.js
-test
