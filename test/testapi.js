@@ -3,7 +3,7 @@ describe('Valor to me!', function(){
 
   var valor = require('../lib/valor');
   var should = require('should');
-  var valortest = new valor('107c7d5d-8f88-4e60-b55e-259c5ef12029');
+  var valortest = new valor(your_api_key);
   var sampleId = '19453268';
 
 
