@@ -31,7 +31,8 @@ valortest.getSummonerRunes('19453268', function(err,res){
 
 
 ### Methods
-- Valor.getChampions(id, callback);
+- Valor.getChampions(id, region, callback);
+- Valor.getChampionById(id, region, callback);
 - Valor.getSummonerByName(name, callback);
 - Valor.getSummonerById(id, callback);
 - Valor.getSummonerMasteries(id, callback);
@@ -46,4 +47,5 @@ valortest.getSummonerRunes('19453268', function(err,res){
 
 ### TODO
 - Finish implementing all of the API calls
+- Add more region support beyond NA
 - Document all methods throughly
