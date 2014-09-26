@@ -1,7 +1,0 @@
-node_modules
-*.log
-
-
-# ignore tests
-test.js
-test
