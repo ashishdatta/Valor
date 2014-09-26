@@ -49,3 +49,4 @@ valortest.getSummonerRunes('19453268', function(err,res){
 - Finish implementing all of the API calls
 - Add more region support beyond NA
 - Document all methods throughly
+- Find an easier to read URL generating method
