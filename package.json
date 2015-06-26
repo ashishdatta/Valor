@@ -20,5 +20,10 @@
     "mocha"     : "latest",
     "gulp-mocha": "latest",
     "gulp-jshint": "latest"
+  },
+  
+  "keywords":{
+    "league of legends"
+  }
   }
 }
