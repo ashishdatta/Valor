@@ -22,8 +22,7 @@
     "gulp-jshint": "latest"
   },
   
-  "keywords":{
-    "league of legends"
-  }
-  }
+  "keywords":[
+    "League of Legends", "LoL", "League of Legends API"
+  ]
 }
